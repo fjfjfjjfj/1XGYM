@@ -1,0 +1,132 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    font-family: Tahoma;
+    
+}
+.type {
+    
+    height: 60px;
+    background-color: rgb(175, 174, 174);
+
+}
+.header {
+    font-size: 24px;
+    text-align: center;
+    margin-top: 50px;
+    margin-bottom: 60px;
+}
+.text-header {
+    text-align: right;
+    margin-right: 30px;
+    padding-top: 18px;
+    font-size: 18px;
+
+}
+.header span {
+    font-weight: 300;
+    display: block;
+}
+.header strong {
+    font-weight: 900;
+    text-transform: uppercase;
+}
+
+.video1 {
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 15px;
+}
+.video2 {
+    display: inline-block;
+    margin-top: 15px;
+}
+.video3 {
+    display: inline-block;
+    margin-right: 10px;
+    margin-left: 13px;
+    margin-top: 10px;
+}
+.video4 {
+    display: inline-block;
+    margin-right: 10px;
+    margin-top: 10px;
+}
+.video {
+    display: inline-block;
+}
+.video-main {
+    text-align: center;
+}   
+.text {
+    display: inline-block;
+    font-size: 16px;
+    margin-left: 10px;
+}
+hr {
+    display: block;
+    border-width: 2px ;
+}
+.max {
+    margin-top: 60px;
+}
+.col {
+    display: inline-block;
+    text-align: center;
+    margin: 10px 50px;
+}
+
+.feature-header {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: 900;
+    font-size: 24px;
+    margin-top: 200px;
+}
+.feature {
+    margin-top: 60px ;
+    text-align: center;
+    margin: 60px auto;
+    font-size: 17px;   
+}
+a:hover {
+    font-size: 18px;
+}
+
+.feature-btm {
+    cursor: pointer;
+	padding: 10px 30px;
+	height: 60px;
+    width: 300px;
+	color: #fff;
+	background: #2727d9;
+	border: none;
+	text-transform: uppercase;
+	font-size: 15px;
+	box-shadow: 2px 2px 5px rgba(0,0,0,0.82);
+    display: block;
+    margin: 15px auto;
+    
+}
+button:hover {
+	opacity: .80;
+	font-weight: bold;
+	transform: scale(1.1);
+}
+.site-footer {
+    background-color:rgb(175, 174, 174);
+    height: 230px;
+}
+.my-infa {
+    vertical-align: top;
+    padding-top: 10px;
+    padding-left: 20px;
+    display: inline-block;
+}
+.connection {
+    display: inline-block;
+    vertical-align: top;
+    padding-top: 10px;
+    padding-left: 200px;
+}
